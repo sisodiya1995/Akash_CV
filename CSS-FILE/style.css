@@ -1,0 +1,165 @@
+body { 
+    background-color:#89B9FB;
+     
+}
+hr {
+    width: 50px;
+    margin-top: 5px;
+    border:  dotted cyan;
+    border-width:none;
+    height: 0px;
+}
+.skil{
+text-align: center;
+}
+
+img{
+    float: left;
+    margin-right: 40px;
+    padding-left: 30px;
+}
+.profile_text{
+width: 60%;
+    height: 150px;
+    display: inline-block;
+
+
+}
+
+h2{
+
+  padding: 5px; 
+  display: inline-block;
+  position: absolute; 
+}
+p{height: 10px;
+    margin: 0px;
+    display: inline-block;
+    position: absolute;
+    padding: 70px 5px;
+
+            
+
+}
+.cricket{
+    float: left;
+    display: block;
+    
+    
+
+}
+.songs{
+float:right;
+    display: block;
+    position: absolute;
+    padding: 200px 1px;
+
+    
+}
+
+.place{
+    position: absolute;   
+    padding: 440px 1px;
+    display: block;
+    float: right;
+}
+.skil-logo{
+    float: left;
+    padding-left: 800px;
+    margin-left: 40px;
+}
+.hobbies-icon{
+    float: left;
+
+top: 550px;
+padding-left: 845px;
+position: absolute;
+display: block;
+
+
+
+
+
+}
+.contact-icon{
+    
+    top: 750px;
+    float: left;
+    position: absolute;
+    display: block;
+
+    
+
+}
+    #hobbi{
+        margin-top: 170px;
+    
+    }
+
+.hobi-1{
+    top: 540px;
+    padding-left: 1030px;
+    margin-left: 10px;
+}
+    
+    .hobi-2{
+        top: 610px;
+        padding-left: 1039px;
+        position: absolute;
+        margin-left: 10px;
+    }
+    .cont-1{
+        top: 740px;
+        padding-left: 320px;
+        position: absolute;
+    }
+
+    .cont-2{
+        top: 790px;
+        padding-left: 330px;
+        position: absolute;
+    }
+
+    .vaccion{
+        padding-left: 850px;
+        float: left;
+        
+    }
+    .vac{
+        margin-top: 200px;
+        
+    }
+    .vac-1{
+        top: 920px;
+        padding-left:  1035px; 
+    }
+    .vac-2{
+        top: 1000px;
+        position: absolute;
+    }
+    
+    footer {
+        top: 1270px;
+        text-align:center;
+        padding: 30px;
+        background-color: #FF00FF;
+        color: black;
+        position: absolute;
+        width: 1700px;
+        font-size: 25px;
+      }
+
+.footer{
+    top: 0px;
+    position: absolute;
+    padding-top: 20px;
+    left: 700px;
+
+}
+    .address-logo{
+        margin-top: 15px;
+    }
+    
+    
+    
+    
